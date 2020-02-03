@@ -1,0 +1,4 @@
+requests
+splinter
+gspread
+oauth2client
